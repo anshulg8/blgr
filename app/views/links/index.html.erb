@@ -18,7 +18,7 @@
       <% end %>
       <%= link_to link, class: "btn btn-default btn-sm" do %>
         <span class="glyphicon glyphicon-comment"></span>
-        Comment
+        <%= pluralize(link.comments.count, "comment") %>
       <% end %>
     </div>
   </div>
