@@ -13,6 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ $navbar-default-brand-color: #ecf0f1;
+ $navbar-default-bg: #663399;
+ $navbar-default-link-color: white;
+ $btn-default-border: #663399; 
+ $pagination-color: #663399;
+ $pagination-active-border: #663399;
+ $pagination-active-bg: #663399;
+ $btn-primary-bg: #663399;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
