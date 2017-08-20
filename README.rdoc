@@ -1,1 +1,1 @@
-My First App - Sample Blog Engine in Rails 4
+Sample Blog Engine in Rails 4
